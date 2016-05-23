@@ -40,4 +40,9 @@ class PxFusionCompletePurchaseResponse extends AbstractResponse
     {
         return (string) $this->data->dpsTxnRef;
     }
+
+    public function getTransactionId()
+    {
+        return (string) $this->data->merchantReference;
+    }
 }
