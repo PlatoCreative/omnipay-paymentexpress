@@ -1,5 +1,5 @@
 {
-    "name": "plato-creative/pxfusion",
+    "name": "omnipay/paymentexpress",
     "type": "library",
     "description": "Payment Express (DPS) driver for the Omnipay payment processing library",
     "keywords": [
